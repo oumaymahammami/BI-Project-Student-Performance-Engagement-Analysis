@@ -46,7 +46,8 @@ The project is organized into **5 notebooks**, each containing all relevant tabl
 ## Tools & Technologies
 - Python & Pandas for data processing  
 - PySpark & Databricks for ETL and data warehouse design  
-- Power BI (optional) for dashboards and visualization  
+- Power BI for dashboards and visualization  
+
 
 
 
