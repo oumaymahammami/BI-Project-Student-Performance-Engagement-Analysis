@@ -38,19 +38,17 @@ The following visualizations illustrate student performance and engagement insig
 ### 2. Répartition de l’Engagement
 ![Répartition de l’Engagement](images/Répartition de l’Engagement.png)
 
-### 3. Impact de l’Éducation
-![Impact de l’Éducation](images/Impact de l’Éducation & Tentatives.png)
+### 3. Impact de l’Éducation & Tentatives
+![Impact de l’Éducation & Tentatives](images/Impact de l’Éducation & Tentatives.png)
 
-### 4. Tentatives
-![Tentatives](images/Impact de l’Éducation & Tentatives.png)
-
-### 5. Global Engagement Overview
+### 4. Global Engagement Overview
 ![Global Engagement](images/VISUALISATIONENGAGEMENT GLOBAL.png)
 
 ## Tools & Technologies
 - Python & Pandas for data processing  
 - PySpark & Databricks for ETL and data warehouse design  
 - Power BI (optional) for dashboards and visualization  
+
 
 
 
