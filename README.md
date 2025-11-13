@@ -28,26 +28,26 @@ The project is organized into **5 notebooks**, each containing all relevant tabl
 - `studentAssessment.csv` – Student assessment results  
 - `studentVle.csv` – Student interactions with VLE materials  
 - `Online classroom Data.csv` – Collaborative participation and skills  
-## Power BI Visualizations
+### Power BI Visualizations
 
-The following visualizations illustrate student performance and engagement insights:
+#### 1. Student Performance by Module
+![Student Performance by Module](student_performance_module.png)
 
-### 1. Student Performance by Module
-![Student Performance by Module](Student Performance by Module.png)
+#### 2. Répartition de l’Engagement
+![Engagement Distribution](engagement_distribution.png)
 
-### 2. Répartition de l’Engagement
-![Répartition de l’Engagement](Répartition de l’Engagement.png)
+#### 3. Impact de l’Éducation & Tentatives
+![Education Impact & Attempts](education_impact_attempts.png)
 
-### 3. Impact de l’Éducation & Tentatives
-![Impact de l’Éducation & Tentatives](Impact de l’Éducation & Tentatives.png)
+#### 4. Global Engagement Overview
+![Global Engagement](global_engagement.png)
 
-### 4. Global Engagement Overview
-![Global Engagement](VISUALISATIONENGAGEMENT GLOBAL.png)
 
 ## Tools & Technologies
 - Python & Pandas for data processing  
 - PySpark & Databricks for ETL and data warehouse design  
 - Power BI (optional) for dashboards and visualization  
+
 
 
 
