@@ -28,13 +28,28 @@ The project is organized into **5 notebooks**, each containing all relevant tabl
 - `studentAssessment.csv` – Student assessment results  
 - `studentVle.csv` – Student interactions with VLE materials  
 - `Online classroom Data.csv` – Collaborative participation and skills  
+## Power BI Visualizations
+
+The following visualizations illustrate student performance and engagement insights:
+
+### 1. Student Performance by Module
+![Student Performance by Module](images/VISUALISATIONENGAGEMENT_GLOBAL.png)
+
+### 2. Répartition de l’Engagement
+![Répartition de l’Engagement](images/VISUALISATIONENGAGEMENT_GLOBAL.png)
+
+### 3. Impact de l’Éducation
+![Impact de l’Éducation](images/VISUALISATIONENGAGEMENT_GLOBAL.png)
+
+### 4. Tentatives
+![Tentatives](images/VISUALISATIONENGAGEMENT_GLOBAL.png)
+
+> *Note: The screenshot file `VISUALISATIONENGAGEMENT_GLOBAL.png` contains all these charts. Place it in the `images/` folder in your repository.*
 
 ## Tools & Technologies
 - Python & Pandas for data processing  
 - PySpark & Databricks for ETL and data warehouse design  
 - Power BI (optional) for dashboards and visualization  
 
-## Usage
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/bi-student-performance.git
+
+
