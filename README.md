@@ -33,23 +33,25 @@ The project is organized into **5 notebooks**, each containing all relevant tabl
 The following visualizations illustrate student performance and engagement insights:
 
 ### 1. Student Performance by Module
-![Student Performance by Module](images/VISUALISATIONENGAGEMENT_GLOBAL.png)
+![Student Performance by Module](images/Student Performance by Module.png)
 
 ### 2. Répartition de l’Engagement
-![Répartition de l’Engagement](images/VISUALISATIONENGAGEMENT_GLOBAL.png)
+![Répartition de l’Engagement](images/Répartition de l’Engagement.png)
 
 ### 3. Impact de l’Éducation
-![Impact de l’Éducation](images/VISUALISATIONENGAGEMENT_GLOBAL.png)
+![Impact de l’Éducation](images/Impact de l’Éducation & Tentatives.png)
 
 ### 4. Tentatives
-![Tentatives](images/VISUALISATIONENGAGEMENT_GLOBAL.png)
+![Tentatives](images/Impact de l’Éducation & Tentatives.png)
 
-> *Note: The screenshot file `VISUALISATIONENGAGEMENT_GLOBAL.png` contains all these charts. Place it in the `images/` folder in your repository.*
+### 5. Global Engagement Overview
+![Global Engagement](images/VISUALISATIONENGAGEMENT GLOBAL.png)
 
 ## Tools & Technologies
 - Python & Pandas for data processing  
 - PySpark & Databricks for ETL and data warehouse design  
 - Power BI (optional) for dashboards and visualization  
+
 
 
 
